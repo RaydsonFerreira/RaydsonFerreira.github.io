@@ -18,7 +18,10 @@ header{
 h1, h2, .arrowDown, a, .menu-arrowUp{
     color: #fff;
     text-align: center;
-    text-decoration:none;
+}
+
+.iconNetwork{
+    text-decoration: none;
 }
 
 a:hover{
@@ -260,8 +263,8 @@ h1{
     position: fixed;
     z-index: -1;
     width: 100vw;
-    height: 51vw;
-    background: linear-gradient( rgba(85,51,41,.8),rgba(85,51,41,.8) ), url(../img/basquete.jpeg);
+    height: 100%;
+    background: linear-gradient( rgba(85,51,41,.8),rgba(85,51,41,.8) ), url(../img/basquete.jpeg) no-repeat;
     top: 0;
 }
 
