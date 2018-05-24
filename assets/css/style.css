@@ -116,7 +116,7 @@ h1{
 
 .menu-navigation{
     width: 100%;
-    height: 5vw;
+    height: 68px;
     background: rgba(17,0,0,1);
     margin: 0;
 }
@@ -296,25 +296,6 @@ h1{
     z-index: 1;
 }
 
-#basketball{
-    margin: 0 600px 2px;
-}
-#theater{
-    margin: 0 625px 2px;
-}
-#movie{
-    margin: 0 625px 2px;
-}
-#netflix{
-    margin: 0 625px 2px;
-}
-#churc{
-    margin: 0 625px 2px;
-}
-#programming{
-    margin: 0 575px 2px;
-}
-
 #basketball,
 #theater,
 #movie,
@@ -326,6 +307,7 @@ h1{
     text-transform: uppercase;
     font-size: 17pt;
     color: #fff;
+    margin: 0 0px 2px;
 }
 
 .tooltiptext, .tooltiptext1 {
