@@ -122,6 +122,10 @@
     .dadosexperience{
         font-size: 12pt;
     }
+
+    .dadosQualifications{
+        font-size: 12pt;
+    }
 }
 
 @media screen and (max-width: 1012px) and (min-width: 768px){
@@ -130,6 +134,14 @@
     }
 
     .dadosexperience{
+        font-size: 8pt;
+    }
+
+    .titleQualifications{
+        font-size: 12pt;
+    }
+
+    .dadosQualifications{
         font-size: 8pt;
     }
 }
